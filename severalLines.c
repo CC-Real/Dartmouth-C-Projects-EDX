@@ -6,3 +6,4 @@ int main(void){
     printf("- Fix errors.");
     return 0;
 }
+// We prove that we know how to add several sentences on different lines.
